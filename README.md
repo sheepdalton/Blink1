@@ -41,13 +41,14 @@ To install the Urban Analysis Software, follow these steps:
 ## Usage
 
 # Operation Instructions
+Once the blank window is open you just press single letters on the keyboard to do it ( sorry, will add menu) . Some options are experimental and not listed the main ones are. 
 
 - **`o`**: Open an SVG file ( see example) The file should have a surrouding boundary
-- **`k`**: Set the number of isovists
+- **`n`**: Set the number of isovists
   ## Use either 'g' or 'r' BUT NOT BOTH  
 - **`g`**: Generate a grid of isovists
 - **`r`**: Generate random isovists (better for fewer isovists)
-
+  ## To Process all measures 
 - **`a`**: Process isovists to compute integration and fractional integration (can take time)
 
 - **`1`** .... **`0`**: Switch between values
