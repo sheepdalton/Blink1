@@ -42,15 +42,28 @@ To install the Urban Analysis Software, follow these steps:
 
 # Operation Instructions
 
-- **`o`**: Open an SVG file
+- **`o`**: Open an SVG file ( see example) The file should have a surrouding boundary
 - **`k`**: Set the number of isovists
+  ## Use either 'g' or 'r' BUT NOT BOTH  
 - **`g`**: Generate a grid of isovists
 - **`r`**: Generate random isovists (better for fewer isovists)
 
 - **`a`**: Process isovists to compute integration and fractional integration (can take time)
 
 - **`1`** .... **`0`**: Switch between values
-- **`t`**: Save table of isovists and data
+- **`1`**: ePureConnectivity
+- **`2`**: kFRACTIONAL_CONNECTIVITY ( asymetrical ) 
+- **`3`**: kSYMETRIC_CONNETIVITY
+
+- **`4`**: eTOTAL_DEPTH_MEASURE (traditional VGA) 
+- **`5`**: kTOTAL_FRACITON_INTEGRATION asymetrical 
+- **`6`**: kSYMETRIC_TOTAL_DEPTH  symetrical
+
+- **`7`**: kLog_eTOTAL_DEPTH_MEASURE (traditional VGA) 
+- **`8`**: kLog_eTOTAL_DEPTH_MEASURE asymetrical 
+- **`6`**: kLog_SYMETRIC_TOTAL_DEPT  symetrical
+
+- **`t`**: Save table of isovists and data saved in data/comparison.csv 
 
 - **Click and drag**: Move
 - **Scroll wheel**: Zoom
@@ -58,7 +71,7 @@ To install the Urban Analysis Software, follow these steps:
 
 - **`z`**: Hide down isovists
 
-- **Click**
+- **Click on isovist **
   - **`d`**: Fractional depth from nearest isovist
   - **`D`**: Step depth from nearest selected isovist
 
