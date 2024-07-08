@@ -28,12 +28,12 @@ To install the Urban Analysis Software, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/urban-analysis-software.git
+    git clone https://github.com/sheepdalton/Blink1.git
     ```
 
 2. Open the project in the Processing IDE:
     - Launch the Processing IDE.
-    - Open the `urban-analysis-software` folder.
+    - Open the `Blink1` folder.
 
 3. Ensure you have the required libraries installed:
     - If the project uses any external libraries, download and add them through the Processing IDE.
