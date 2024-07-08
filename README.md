@@ -1,8 +1,7 @@
 
-```markdown
 # Urban Analysis Software for Computing Overlapping Isovists
 
-Welcome to the Urban Analysis Software! This tool is designed to compute overlapping isovists for urban environments, aiding in the analysis of spatial visibility and urban design. Built using the Processing programming language, this software offers an intuitive and visual approach to urban analysis.
+Welcome to the Blink Urban Analysis Software! This tool is designed to compute overlapping isovists for urban environments, aiding in the analysis of spatial visibility and urban design. Built using the Processing programming language, this software offers an intuitive and visual approach to urban analysis.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -87,9 +86,3 @@ We welcome contributions from the community! If you would like to contribute to 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
----
-
-We hope this software proves useful in your urban analysis projects. If you have any questions or feedback, please don't hesitate to reach out!
-```
-
-This README provides a clear overview of the software, its purpose, features, and instructions for installation and usage with the Processing programming language. It also includes sections for contributing and licensing, ensuring that users and potential contributors have all the information they need.
