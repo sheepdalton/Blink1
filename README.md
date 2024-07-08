@@ -53,7 +53,7 @@ Once the blank window is open you just press single letters on the keyboard to d
 - **`n`**: Set the number of isovists
   ## Use either 'g' or 'r' BUT NOT BOTH  
 - **`g`**: Generate a grid of isovists
-- **`r`**: Generate random isovists (better for fewer isovists)
+- **`r`**: Generate random isovists (better for fewer isovists can be slow)
   ## To Process all measures 
 - **`a`**: Process isovists to compute integration and fractional integration (can take time)
 
@@ -70,7 +70,9 @@ Once the blank window is open you just press single letters on the keyboard to d
 - **`8`**: kLog_eTOTAL_DEPTH_MEASURE asymetrical 
 - **`6`**: kLog_SYMETRIC_TOTAL_DEPT  symetrical
 
+## Exporting 
 - **`t`**: Save table of isovists and data saved in data/comparison.csv 
+- **`s`**: Exports current image as PDF file guesses the name. 
 
 - **Click and drag**: Move
 - **Scroll wheel**: Zoom
