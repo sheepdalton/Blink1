@@ -6,6 +6,7 @@ Welcome to the Blink Urban Analysis Software! This tool is designed to compute o
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Binaries ](#Binaries )
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -21,6 +22,11 @@ Isovists are areas visible from a specific point in space, and overlapping isovi
 - Analyze overlapping isovists to understand spatial relationships
 - Visualize isovist overlaps using various graphical representations
 - Export analysis results for further use and study
+
+## Binaries
+
+Experimentally I have installed 2 Binaries - one for Mac ( AppleSilcon) and another for Windows. These have not been tested and it is uncertain if they will work for GitHub but this attempt might be worth trying. 
+
 
 ## Installation
 
