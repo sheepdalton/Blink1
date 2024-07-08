@@ -678,7 +678,7 @@ void keyReleased()
 
     if ( key == '1' ) {
       colourBy( gLastColorMeasure = ePureConnectivity, "ePureConnectivity" )  ;
-      return;
+   't   return;
     }
     if ( key == '2' ) {
       colourBy(gLastColorMeasure =  kFRACTIONAL_CONNECTIVITY, "kFRACTIONAL_CONNECTIVITY"    ) ;
